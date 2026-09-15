@@ -1,5 +1,5 @@
 # Hey there, I'm Fernando Cirone 👋😄
-Welcome to my GitHub page 🎉 With 9 years working as a PM in telco/tech, I've become a Data Scientist graduated from the Le Wagon Data Science & AI Bootcamp. With an "always curious mindset", I'm driven by the goal of finding solutions to complex problems to improve people's lives and the environment around us 🤓🌱🤖.
+Welcome to my GitHub page 🎉 Curious, problem-solving Data Technical professional with more than 10 years working with data in tech companies, currently working as an Data Engineer with experience in Data Scientist and Bootcamp Data Mentor roles. Holding an MBA and a Data Science & AI certification from Le Wagon, I strive to apply a customer-centric approach to develop technological solutions that address real-world problems and positively impact both people and the environment around us. 🤓🌱🤖.
 
 ## My GitHub Contribution at a glance 👇
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=thecirocks)](https://github.com/LordDashMe/github-contribution-stats/)
