@@ -9,8 +9,6 @@ Welcome to my GitHub page 🎉 Curious, problem-solving Data Technical professio
 
 ## Let's chat? 🤜🤛
 Connect with me on: [LinkedIn](https://www.linkedin.com/in/fernandocirone/?locale=en_US)<br>
-Checkout my [Portfolio](https://troopl.com/fernandocirone)
-
 
 <!--
 **thecirocks/thecirocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
